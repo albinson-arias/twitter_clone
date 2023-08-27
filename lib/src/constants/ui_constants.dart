@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:twitter_clone/src/constants/assets_constants.dart';
-import 'package:twitter_clone/src/features/auth/controllers/auth_controller.dart';
 import 'package:twitter_clone/src/features/tweet/widgets/tweet_list.dart';
 import 'package:twitter_clone/src/theme/palette.dart';
 

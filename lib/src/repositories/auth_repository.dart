@@ -1,6 +1,4 @@
 import 'package:appwrite/appwrite.dart';
-
-import 'package:appwrite/appwrite.dart';
 import 'package:appwrite/models.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:multiple_result/multiple_result.dart';
